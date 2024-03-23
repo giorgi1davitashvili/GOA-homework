@@ -1,8 +1,7 @@
 number1 = 500
-number2 = 500.0    #ან 0.500 ვერ გავიგე
+number2 = float(number1)  
 
-print(number1 == number2)               #\
-
+print(number1 == number2)               
 
 
 
